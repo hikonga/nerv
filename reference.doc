@@ -4,3 +4,5 @@ http://blog.csdn.net/han_xiaoyang/article/details/50759472，机器学习路线�
 python-机器学习资料
 https://zhuanlan.zhihu.com/p/24770526，Scikit-Learn 备忘录：文章主要讲述了skl库的主要接口，概述。
 http://www.cnblogs.com/taceywong/p/4570155.html 针对科学数据处理的统计学习教程（scikit-learn教程2）：文章介绍了skl的主要算法，从模型介绍到模型参数选择等方面，较为全面
+算法讲解：
+http://blog.csdn.net/yangxudong/article/details/53872141  GBDT算法原理深入解析：详细讲解了GBDT算法
