@@ -5,6 +5,7 @@ python-机器学习资料
 https://zhuanlan.zhihu.com/p/24770526，Scikit-Learn 备忘录：文章主要讲述了skl库的主要接口，概述。
 http://www.cnblogs.com/taceywong/p/4570155.html 针对科学数据处理的统计学习教程（scikit-learn教程2）：文章介绍了skl的主要算法，从模型介绍到模型参数选择等方面，较为全面
 http://blog.csdn.net/niuwei22007/article/details/49277595  基于Theano的深度学习(Deep Learning)框架Keras学习随笔：文章介绍了核心层接口
+https://zhuanlan.zhihu.com/p/25278953 深度学习从小白到入门 —— 基于keras的深度学习基本概念讲解
 算法讲解：
 http://blog.csdn.net/yangxudong/article/details/53872141  GBDT算法原理深入解析：详细讲解了GBDT算法
 https://zhuanlan.zhihu.com/p/24720951  特征选择简明指南：讲解了特征选择的常用方法
