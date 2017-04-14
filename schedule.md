@@ -3,7 +3,7 @@
 >>3月份
 >>>04-06
       <p>Job：新闻分类，自动识别新闻类别</p>
-      <p>数据集：[搜狐新闻]:http://www.sogou.com/labs/resource/cs.php 新闻数据</p>
+      <p>数据集：[网易新闻]:http://dl.download.csdn.net/down10/20131211/85ba3f49bbfcce4683c2e86fab3998b7.rar?response-content-disposition=attachment%3Bfilename%3D%22dataset_602151.rar%22&OSSAccessKeyId=9q6nvzoJGowBj4q1&Expires=1492139707&Signature=l8xuxMGIDvpecN%2Fm8t15WMmTSu8%3D新闻数据</p>
       <p>工具：sklearn,jieba</p>
 >>>18-19
       <p>Job:文本情感分析,主题词提取，</p>
