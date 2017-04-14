@@ -9,6 +9,7 @@ https://zhuanlan.zhihu.com/p/25278953 深度学习从小白到入门 —— 基�
 https://zhuanlan.zhihu.com/p/22918818 keras示例程序解析（1）——cifar10_cnn
 http://lib.csdn.net/article/deeplearning/47254 深度学习框架Keras使用心得：它的参考文献质量也非常高，非常推荐阅读
 http://www.cnblogs.com/maybe2030/p/4583087.html scikit-learn机器学习库，此人的博客介绍相对简单，适合走读
+http://www.jianshu.com/p/516f009c0875 :介绍了scikit-learn的各个组件
 算法讲解：
 http://blog.csdn.net/yangxudong/article/details/53872141  GBDT算法原理深入解析：详细讲解了GBDT算法
 https://zhuanlan.zhihu.com/p/24720951  特征选择简明指南：讲解了特征选择的常用方法
@@ -22,3 +23,4 @@ http://blog.csdn.net/han_xiaoyang/article/details/49797143 逻辑回归应用之
 CNN：
 http://blog.csdn.net/zbc1090549839/article/details/53055386 CNN在文本分类上的应用
 http://geek.csdn.net/news/detail/189196 淘宝试用CNN做通过商品标题来划分商品类目
+
