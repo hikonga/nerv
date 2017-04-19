@@ -10,6 +10,7 @@ https://zhuanlan.zhihu.com/p/22918818 keras示例程序解析（1）——cifar1
 http://lib.csdn.net/article/deeplearning/47254 深度学习框架Keras使用心得：它的参考文献质量也非常高，非常推荐阅读
 http://www.cnblogs.com/maybe2030/p/4583087.html scikit-learn机器学习库，此人的博客介绍相对简单，适合走读
 http://www.jianshu.com/p/516f009c0875 :介绍了scikit-learn的各个组件
+http://www.jianshu.com/p/1c6efdbce226  ：sklearn常用类使用
 算法讲解：
 http://blog.csdn.net/yangxudong/article/details/53872141  GBDT算法原理深入解析：详细讲解了GBDT算法
 https://zhuanlan.zhihu.com/p/24720951  特征选择简明指南：讲解了特征选择的常用方法
