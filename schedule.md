@@ -17,4 +17,5 @@
 >>>
       <p>实体命名识别</p>
 >>>
-      <p>主题词提取(TF-IDF,LDA)</p>
+      <p>主题词提取(TF-IDF,LDA)</p>
+<p>文本生成关键 TextRank</p>
