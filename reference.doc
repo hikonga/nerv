@@ -12,6 +12,7 @@ http://www.cnblogs.com/maybe2030/p/4583087.html scikit-learn机器学习库，�
 http://www.jianshu.com/p/516f009c0875 :介绍了scikit-learn的各个组件
 http://www.jianshu.com/p/1c6efdbce226  ：sklearn常用类使用
 算法讲解：
+http://breezedeus.github.io/2014/11/19/breezedeus-feature-mining-gbdt.html 利用GBDT构造新特征
 http://blog.csdn.net/yangxudong/article/details/53872141  GBDT算法原理深入解析：详细讲解了GBDT算法
 https://zhuanlan.zhihu.com/p/24720951  特征选择简明指南：讲解了特征选择的常用方法
 http://blog.csdn.net/google19890102/article/details/40019271 特征选择方法及其注意点
